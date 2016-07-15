@@ -1,0 +1,2 @@
+module sample "1.0.0" {
+}
