@@ -1,3 +1,6 @@
+[compiler]
+progress=true
+
 [runtool]
 module=sample/1.0.0
 
