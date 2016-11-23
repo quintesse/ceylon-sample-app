@@ -1,6 +1,6 @@
 import ceylon.io { SocketAddress }
-import ceylon.net { ... }
-import ceylon.net.http.server { ... }
+import ceylon.http.common { ... }
+import ceylon.http.server { ... }
 
 shared void run() {
     value server = newServer {
